@@ -1,0 +1,6 @@
+[submodule "RadioLib"]
+	path = RadioLib
+	url = https://github.com/jgromes/RadioLib.git
+[submodule "pigpio"]
+	path = pigpio
+	url = https://github.com/joan2937/pigpio.git
